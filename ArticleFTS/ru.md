@@ -106,7 +106,6 @@ _Скриншот таблице созданной в файле edmx_
 ![F T S Int](Images/FTS_int.png)
 
 ```sql
-/// Текст SQL запроса для создания таблицы
 CREATE TABLE [dbo].[FTS_Int] (
     [Key]   INT          NOT NULL,
     [Rank]  INT          NOT NULL,
