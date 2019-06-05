@@ -19,7 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFTS", "TestFTS\TestFTS.
 		{33C8753E-7DCA-4B01-B6E4-B4475806A146} = {33C8753E-7DCA-4B01-B6E4-B4475806A146}
 	EndProjectSection
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ArticleFTS", "ArticleFTS\ArticleFTS.shproj", "{43A19807-704D-4E4F-8408-9591308B413D}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ArticleFTS\ArticleFTS.projitems*{43a19807-704d-4e4f-8408-9591308b413d}*SharedItemsImports = 13
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
